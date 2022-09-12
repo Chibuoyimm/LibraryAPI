@@ -1,7 +1,6 @@
 package models
 
 import (
-	"github.com/chibuoyimm/go-bookstore/config"
 	"github.com/chibuoyimm/go-bookstore/pkg/config"
 	"github.com/jinzhu/gorm"
 )
